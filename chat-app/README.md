@@ -1,4 +1,4 @@
-# vue-app-deploy-gh-pages
+# chat-app
 
 ## Project setup
 ```
