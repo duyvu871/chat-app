@@ -11,6 +11,6 @@ cd dist
 git add -A
 git commit -m 'deploy'
 git remote add second https://github.com/duyvu871/chat-app.git
-git push -u second master
+git push -u second main
 # git push -f git@github.com:duyvu871/chat-app.git master:gh-pages
 cd -
